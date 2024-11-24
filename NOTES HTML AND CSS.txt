@@ -32,8 +32,8 @@ System software - like window , android
 
  list - > there are two types 
 
- ordered list 
- unordered list
+ ordered list ( ol tag)
+ unordered list (ul tag)
 
 Attribute -> It change the behavior of tag or property of tag
 
