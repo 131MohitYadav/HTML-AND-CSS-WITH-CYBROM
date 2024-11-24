@@ -129,3 +129,20 @@ PROPERTY
 #########################################################################3
 
 Date -> 22 / 11 / 24
+git  and github 
+
+how to create account in github and add files 
+how to download gitbash
+
+#####################################################################################
+Date -> 23 / 11 / 24
+
+git bash command
+# ye command github pe bar bar files save krne ke leye use hogi
+
+1.git add . -> it used for add all files in the repository
+2.git add filename -> it used for add specific file in the repository
+3.git commit -m "message" -> it used for commit the file in the repository
+4.git push -u origin master -> it used for push the file in the repository
+
+
